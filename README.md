@@ -39,6 +39,7 @@ newman run collection.json
 
 ```
 newman run collection.json -r htmlextra
+(screenshots/image.png)
 ```
 
 ## Project Files
@@ -93,5 +94,6 @@ newman run collection.json -r htmlextra
 ## Video Demonstration
 
 (Add Video Link Here)
+
 
 
