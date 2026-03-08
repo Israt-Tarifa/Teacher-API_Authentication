@@ -65,34 +65,33 @@ newman run collection.json -r htmlextra
 ![Create Teacher](screenshots/d.png)
 
 ---
-## 4. Get All Teacher 
-
-![Get All Teacher](screenshots/e.png)
-
----
-## 5. Get Teacher by id
+## 4. Get Teacher by id
 
 ![Get Teacher By Id](screenshots/e.png)
 
 ---
 
-## 6. Update Teacher Verified
+## 5. Update Teacher Verified
 
 ![Update Teacher](screenshots/f.png)
 
 ---
 
-## 5. Delete Teacher + 404 Verification
+## 6. Delete Teacher + 404 Verification
 
 ![Delete Teacher](screenshots/g.png)
 
 ---
 
-## 6. Negative Test Cases Passing
+## 7. Negative Test Cases Passing
 
 ![Negative Test](screenshots/h.png)
+![Negative Test](screenshots/i.png)
+![Negative Test](screenshots/j.png)
+![Negative Test](screenshots/k.png)
 
 ## Video Demonstration
 
 (Add Video Link Here)
+
 
