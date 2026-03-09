@@ -21,6 +21,10 @@ This project contains automated API tests for Authentication and Teachers CRUD A
 6. Delete Teacher
 7. Negative Test Scenarios
 
+## Documentation
+
+URL for published documentation:https://documenter.getpostman.com/view/52425776/2sBXcLgxHu
+
 ## How to Run
 
 ### Install Newman
@@ -95,6 +99,7 @@ newman run collection.json -r htmlextra
 
 Watch the demo video here:
 https://drive.google.com/file/d/1Nmu_GtMwcEGiKF66Wf_8fIbcanrSLnOK/view?usp=sharing
+
 
 
 
